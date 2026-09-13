@@ -378,7 +378,7 @@ Window:Managers()
 Queue:StartQueue()
 
 print("================================")
-print("        Xynapse Dumper [Elite]")
+print("    Discord: https://discord.gg/Hra9Ea9C7")
 print("================================")
 print("Folder:", FolderName)
 print("Scripts:", #Builder.Scripts)
